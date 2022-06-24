@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <h2>My one stop bio</h2>
+    <p id="demo 1"></p>
+    <p id="demo 2"></p>
+    <p id="demo 3"></p>
+
+
+    <script>
+        document.getElementById("demo 1").innerHTML = "My name is Roy";
+        document.getElementById("demo 2").innerHTML = "I am 5 ft / 10inches in height";
+        document.getElementById("demo 3").innerHTML = "I am Nigerian";
+    </script>
+</body>
+
+</html>
